@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-I started working with PHP in the summer of 2020. The main part of my experience is working with Laravel. Lately my efforts have been focused on developing myself as a full-stack developer. I’ve a layout experience - I’ve done frontend for several currently working projects, so I’m currently developing as a fullStack developer.
+I'm web developer. I started working with PHP in the summer of 2020. The main part of my experience is working with Laravel. Lately my efforts have been focused on developing myself as a full-stack developer. I’ve a layout experience - I’ve done frontend for several currently working projects, so I’m currently developing as a fullStack developer.
 
 ## 💼 Skills
 
