@@ -27,6 +27,7 @@ I started working with PHP in the summer of 2020. The main part of my experience
 ![](https://img.shields.io/badge/Tools-Postman-informational?style=plastic&logo=Postman&logoColor=white&color=FF6C37)
 ![](https://img.shields.io/badge/Tools-NPM-informational?style=plastic&logo=Npm&logoColor=white&color=CB3837)
 ![](https://img.shields.io/badge/Tools-Webpack-informational?style=plastic&logo=Webpack&logoColor=white&color=8DD6F9)
+![](https://img.shields.io/badge/Tools-Vite-informational?style=plastic&logo=Vite&logoColor=white&color=646CFF)
 
 
 
