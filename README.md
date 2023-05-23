@@ -15,8 +15,8 @@ I started working with PHP in the summer of 2020. The main part of my experience
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=plastic&logo=JavaScript&logoColor=white&color=F7DF1E)
 ![](https://img.shields.io/badge/Code-JQuery-informational?style=plastic&logo=JQuery&logoColor=white&color=0769AD)
 
-![](https://img.shields.io/badge/Code-HTML-informational?style=plastic&logo=HTML&logoColor=white&color=E34F26)
-![](https://img.shields.io/badge/Styles-CSS-informational?style=plastic&logo=CSS&logoColor=white&color=1572B6)
+![](https://img.shields.io/badge/Code-HTML5-informational?style=plastic&logo=HTML5&logoColor=white&color=E34F26)
+![](https://img.shields.io/badge/Styles-CSS3-informational?style=plastic&logo=CSS3&logoColor=white&color=1572B6)
 ![](https://img.shields.io/badge/Styles-SASS-informational?style=plastic&logo=SASS&logoColor=white&color=CC6699)
 ![](https://img.shields.io/badge/Styles-Bootstrap-informational?style=plastic&logo=Bootstrap&logoColor=white&color=7952B3)
 ![](https://img.shields.io/badge/Styles-BEM-informational?style=plastic&logo=BEM&logoColor=white&color=000000)
