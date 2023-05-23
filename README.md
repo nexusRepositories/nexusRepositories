@@ -9,10 +9,10 @@ I started working with PHP in the summer of 2020. The main part of my experience
 
 ![](https://img.shields.io/badge/Code-PHP-informational?style=plastic&logo=PHP&logoColor=white&color=777BB4)
 ![](https://img.shields.io/badge/Code-Laravel-informational?style=plastic&logo=Laravel&logoColor=white&color=FF2D20)
+![](https://img.shields.io/badge/DBMS-MySQL-informational?style=plastic&logo=MySQL&logoColor=white&color=4479A1)
+
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=plastic&logo=JavaScript&logoColor=white&color=F7DF1E)
 
-
-![](https://img.shields.io/badge/DBMS-MySQL-informational?style=plastic&logo=MySQL&logoColor=white&color=4479A1)
 
 
 <!--
