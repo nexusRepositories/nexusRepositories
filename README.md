@@ -20,6 +20,7 @@ I started working with PHP in the summer of 2020. The main part of my experience
 ![](https://img.shields.io/badge/Styles-Bootstrap-informational?style=plastic&logo=Bootstrap&logoColor=white&color=7952B3)
 ![](https://img.shields.io/badge/Styles-BEM-informational?style=plastic&logo=BEM&logoColor=white&color=000000)
 
+![](https://img.shields.io/badge/Tools-Git-informational?style=plastic&logo=Git&logoColor=white&color=F05032)
 ![](https://img.shields.io/badge/Tools-Ubuntu-informational?style=plastic&logo=Ubuntu&logoColor=white&color=E95420)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=plastic&logo=Docker&logoColor=white&color=2496ED)
 ![](https://img.shields.io/badge/Tools-Vagrant-informational?style=plastic&logo=Vagrant&logoColor=white&color=1868F2)
