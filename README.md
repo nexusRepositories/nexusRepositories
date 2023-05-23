@@ -8,6 +8,7 @@ I started working with PHP in the summer of 2020. The main part of my experience
 ## 💼 Skills
 
 ![](https://img.shields.io/badge/Code-PHP-informational?style=plastic&logo=PHP&logoColor=white&color=777BB4)
+![](https://img.shields.io/badge/Code-Laravel-informational?style=plastic&logo=Laravel&logoColor=white&color=FF2D20)
 
 
 <!--
