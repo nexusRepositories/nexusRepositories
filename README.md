@@ -20,8 +20,9 @@ I started working with PHP in the summer of 2020. The main part of my experience
 ![](https://img.shields.io/badge/Styles-Bootstrap-informational?style=plastic&logo=Bootstrap&logoColor=white&color=7952B3)
 ![](https://img.shields.io/badge/Styles-BEM-informational?style=plastic&logo=BEM&logoColor=white&color=000000)
 
-![](https://img.shields.io/badge/Tools-Git-informational?style=plastic&logo=Git&logoColor=white&color=F05032)
-![](https://img.shields.io/badge/Tools-Ubuntu-informational?style=plastic&logo=Ubuntu&logoColor=white&color=E95420)
+![](https://img.shields.io/badge/VCS-Git-informational?style=plastic&logo=Git&logoColor=white&color=F05032)
+![](https://img.shields.io/badge/OS-Ubuntu-informational?style=plastic&logo=Ubuntu&logoColor=white&color=E95420)
+
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=plastic&logo=Docker&logoColor=white&color=2496ED)
 ![](https://img.shields.io/badge/Tools-Vagrant-informational?style=plastic&logo=Vagrant&logoColor=white&color=1868F2)
 ![](https://img.shields.io/badge/Tools-Composer-informational?style=plastic&logo=Composer&logoColor=white&color=885630)
@@ -31,6 +32,8 @@ I started working with PHP in the summer of 2020. The main part of my experience
 ![](https://img.shields.io/badge/Tools-Vite-informational?style=plastic&logo=Vite&logoColor=white&color=646CFF)
 
 ![](https://img.shields.io/badge/Tools-Github-informational?style=plastic&logo=Github&logoColor=white&color=181717)
+![](https://img.shields.io/badge/Tools-GitLab-informational?style=plastic&logo=GitLab&logoColor=white&color=FC6D26)
+![](https://img.shields.io/badge/Tools-Bitbucket-informational?style=plastic&logo=BitBucket&logoColor=white&color=0052CC)
 ![](https://img.shields.io/badge/Tools-Jira-informational?style=plastic&logo=Jira&logoColor=white&color=0052CC)
 ![](https://img.shields.io/badge/Tools-Slack-informational?style=plastic&logo=Slack&logoColor=white&color=4A154B)
 
