@@ -30,6 +30,10 @@ I started working with PHP in the summer of 2020. The main part of my experience
 ![](https://img.shields.io/badge/Tools-Webpack-informational?style=plastic&logo=Webpack&logoColor=white&color=8DD6F9)
 ![](https://img.shields.io/badge/Tools-Vite-informational?style=plastic&logo=Vite&logoColor=white&color=646CFF)
 
+![](https://img.shields.io/badge/Tools-Github-informational?style=plastic&logo=Github&logoColor=white&color=181717)
+![](https://img.shields.io/badge/Tools-Jira-informational?style=plastic&logo=Jira&logoColor=white&color=0052CC)
+![](https://img.shields.io/badge/Tools-Slack-informational?style=plastic&logo=Slack&logoColor=white&color=4A154B)
+
 
 
 
