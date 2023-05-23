@@ -1,6 +1,6 @@
-### Hi there, I'm Ivan Golovatij 👋
-
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/ivan-golovatij/)
+
+### Hi there, I'm Ivan Golovatij 👋
 
 I started working with PHP in the summer of 2020. The main part of my experience is working with Laravel. Lately my efforts have been focused on developing myself as a full-stack developer. I’ve a layout experience - I’ve done frontend for several currently working projects, so I’m currently developing as a fullStack developer.
 
